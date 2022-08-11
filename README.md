@@ -25,7 +25,7 @@
 
     ```
 
-**How to run**
+**How to Run:**
 
 1. Call the function from "skewCorrector" file.
 1. Now just pass the "cv2.imread" returned image to the function.
